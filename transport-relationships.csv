@@ -30,3 +30,5 @@ from,to,relationship,dist
 "Felixstowe","Moscow","EROAD","29"
 "Stambul","Keln","EROAD","245"
 "Moscow","Kazan","EROAD","90"
+"Doncaste","Amsterdam", "EROAD","44"
+"Gouda","Doncaste","EROAD","15"
