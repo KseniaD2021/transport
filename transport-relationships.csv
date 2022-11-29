@@ -32,4 +32,5 @@ from,to,relationship,dist
 "Moscow","Kazan","EROAD","90"
 "Doncaste","Amsterdam", "EROAD","44"
 "Gouda","Doncaste","EROAD","15"
-"Saransk", "Kovilkino", "EROAD", "5"
+"Saransk","Kovilkino","EROAD","5"
+"Kovilkino","Berlin","EROAD","16"
